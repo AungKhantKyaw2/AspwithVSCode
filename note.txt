@@ -1,0 +1,16 @@
+dotnet --version
+
+dotnet new webapp -n MyFirstApp
+
+dotnet new webapi - n DebugDemo // create trace exmples for debug
+
+dotnet new webapi -n EnvironmentTest
+
+
+dotnet new mvc -n ArchitectureDemo
+
+
+
+dotnet new webapi -o MyFirstApi
+
+cd MyFirstApi
